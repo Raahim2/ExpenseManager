@@ -19,7 +19,7 @@ Expense Manager is an Android application that helps users track their expenses 
 - **JSON**: Lightweight data-interchange format for storing expense data.
 
 Download the latest version of Expense Manager APK:
-- [ExpenseManager.apk](https://github.com/Raahim2/ExpenseManager/ExpenseManager.apk)
+- [ExpenseManager.apk](https://github.com/Raahim2/ExpenseManager/blob/main/ExpenseManager.apk)
 
 
 ## Installation
