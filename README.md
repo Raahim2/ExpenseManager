@@ -2,7 +2,7 @@
 
 Expense Manager is an Android application that helps users track their expenses efficiently. It provides visual insights into spending habits through various charts and allows easy management of expenses by category and date.
 
-![App Screenshot](./screenshots/app_screenshot.png)
+![App Screenshot](Screenshot1.png)
 
 ## Features
 
