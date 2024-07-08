@@ -39,13 +39,13 @@ Download the latest version of Expense Manager APK:
 
 ## Screenshots
 
-![Screenshot 1](Screenshot2.png)
+![Screenshot 1](Screenshot2.jpg)
 
-![Screenshot 2](Screenshot3.png)
+![Screenshot 2](Screenshot3.jpg)
 
-![Screenshot 3](Screenshot5.png)
+![Screenshot 3](Screenshot5.jpg)
 
-![Screenshot 4](Screenshot4.png)
+![Screenshot 4](Screenshot4.jpg)
 
 ## Statistics
 
